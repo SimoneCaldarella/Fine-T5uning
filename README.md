@@ -2,4 +2,6 @@
 
 Conversational Fine-Tuning of italian T5 model.
 
-Check and download the description [here](https://github.com/SimoneCaldarella/Fine-T5uning/blob/main/Internship_Report.pdf).
+Code and Dataset are under NDA.
+
+Check and download the description [here](./Internship_Report.pdf).
